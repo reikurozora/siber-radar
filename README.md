@@ -12,7 +12,7 @@ Bu depo, proje raporunu ve ürün taslağını içerir. Çalışır bir uygulama
 
 ## Rapor
 
-- [Siber Radar proje raporu](docs/siber-radar-project-report.docx)
+- [Siber Radar proje raporu](siber-radar-project-report.docx)
 
 Raporun herkese açık kopyasında öğrenci numaraları gizlenmiş, Word dosyasının kişisel üstverisi temizlenmiştir.
 
